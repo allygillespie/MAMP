@@ -1,0 +1,426 @@
+[Mon May 07 20:49:52 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon May 07 20:49:52 2012] [notice] Digest: done
+[Mon May 07 20:49:52 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue May 08 00:12:23 2012] [error] child process 1489 still did not exit, sending a SIGKILL
+[Tue May 08 00:12:24 2012] [error] child process 5300 still did not exit, sending a SIGKILL
+[Tue May 08 00:12:24 2012] [error] child process 1973 still did not exit, sending a SIGKILL
+[Tue May 08 00:12:25 2012] [notice] caught SIGTERM, shutting down
+[Tue May 08 11:31:51 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue May 08 11:31:51 2012] [notice] Digest: done
+[Tue May 08 11:31:51 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue May 08 21:58:53 2012] [notice] caught SIGTERM, shutting down
+[Wed May 09 15:17:33 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed May 09 15:17:33 2012] [notice] Digest: done
+[Wed May 09 15:17:33 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Wed May 09 23:43:13 2012] [notice] caught SIGTERM, shutting down
+[Thu May 10 08:03:34 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu May 10 08:03:34 2012] [notice] Digest: done
+[Thu May 10 08:03:34 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu May 10 22:29:32 2012] [notice] caught SIGTERM, shutting down
+[Tue May 15 19:52:27 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue May 15 19:52:27 2012] [notice] Digest: done
+[Tue May 15 19:52:27 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue May 15 22:56:01 2012] [notice] caught SIGTERM, shutting down
+[Wed May 16 10:22:05 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed May 16 10:22:05 2012] [notice] Digest: done
+[Wed May 16 10:22:05 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Wed May 16 23:29:34 2012] [notice] caught SIGTERM, shutting down
+[Thu May 17 10:40:15 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu May 17 10:40:15 2012] [notice] Digest: done
+[Thu May 17 10:40:15 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu May 17 19:35:18 2012] [notice] caught SIGTERM, shutting down
+[Fri May 18 11:26:34 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri May 18 11:26:34 2012] [notice] Digest: done
+[Fri May 18 11:26:34 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Sat May 19 17:30:47 2012] [notice] caught SIGTERM, shutting down
+[Sat May 19 18:16:33 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat May 19 18:16:33 2012] [notice] Digest: done
+[Sat May 19 18:16:33 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Sat May 19 23:54:54 2012] [notice] caught SIGTERM, shutting down
+[Sun May 20 12:40:44 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun May 20 12:40:44 2012] [notice] Digest: done
+[Sun May 20 12:40:44 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Mon May 21 00:08:21 2012] [notice] caught SIGTERM, shutting down
+[Mon May 21 11:15:17 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon May 21 11:15:17 2012] [notice] Digest: done
+[Mon May 21 11:15:19 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Mon May 21 22:25:53 2012] [notice] caught SIGTERM, shutting down
+[Thu Jul 26 19:39:21 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Jul 26 19:39:21 2012] [notice] Digest: done
+[Thu Jul 26 19:39:21 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Jul 26 19:52:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:53:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:53:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:54:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:54:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:55:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:55:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:56:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:56:51 2012] [error] [client ::1] script '/Applications/MAMP/htdocs/bigcheese/installation/index.php' not found or unable to stat, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:57:33 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:57:34 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:57:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:58:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:58:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:59:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 19:59:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:00:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:00:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:01:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:01:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:02:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:02:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:03:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:03:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:04:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:04:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:05:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:05:26 2012] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/test
+[Thu Jul 26 20:05:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:06:07 2012] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/test
+[Thu Jul 26 20:06:08 2012] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/test
+[Thu Jul 26 20:06:09 2012] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/test
+[Thu Jul 26 20:06:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:06:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:07:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:07:51 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 20:08:03 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/test/installation, referer: http://localhost:8888/test/installation/index.php
+[Thu Jul 26 20:08:21 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese/installation, referer: http://localhost:8888/bigcheese/installation/index.php
+[Thu Jul 26 22:50:13 2012] [notice] caught SIGTERM, shutting down
+[Fri Jul 27 10:00:01 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Jul 27 10:00:01 2012] [notice] Digest: done
+[Fri Jul 27 10:00:01 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Fri Jul 27 10:00:16 2012] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/test
+[Fri Jul 27 10:00:33 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/bigcheese
+[Fri Jul 27 11:13:06 2012] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/test/Usain_Bolt_Olympics_cropped.jpeg, referer: http://localhost:8888/test/
+[Sat Jul 28 01:22:27 2012] [notice] caught SIGTERM, shutting down
+[Sat Jul 28 20:26:26 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Jul 28 20:26:27 2012] [notice] Digest: done
+[Sat Jul 28 20:26:27 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Sat Jul 28 20:41:04 2012] [notice] caught SIGTERM, shutting down
+[Mon Jul 30 18:18:07 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Jul 30 18:18:07 2012] [notice] Digest: done
+[Mon Jul 30 18:18:07 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Mon Jul 30 19:22:23 2012] [notice] caught SIGTERM, shutting down
+[Mon Aug 06 21:59:15 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Aug 06 21:59:15 2012] [notice] Digest: done
+[Mon Aug 06 21:59:15 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Mon Aug 06 21:59:50 2012] [notice] caught SIGTERM, shutting down
+[Wed Sep 12 19:31:09 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Sep 12 19:31:09 2012] [notice] Digest: done
+[Wed Sep 12 19:31:09 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Wed Sep 12 19:35:46 2012] [notice] caught SIGTERM, shutting down
+[Thu Dec 20 20:26:57 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Dec 20 20:26:57 2012] [notice] Digest: done
+[Thu Dec 20 20:26:57 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Dec 20 20:42:41 2012] [notice] caught SIGTERM, shutting down
+[Thu Dec 20 20:59:15 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Dec 20 20:59:15 2012] [notice] Digest: done
+[Thu Dec 20 20:59:15 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Dec 20 23:44:41 2012] [notice] caught SIGTERM, shutting down
+[Fri Dec 21 10:51:44 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Dec 21 10:51:44 2012] [notice] Digest: done
+[Fri Dec 21 10:51:44 2012] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Fri Dec 21 19:53:00 2012] [notice] caught SIGTERM, shutting down
+[Tue Jan 22 17:36:34 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Jan 22 17:36:34 2013] [notice] Digest: done
+[Tue Jan 22 17:36:34 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Jan 22 17:36:53 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 17:43:24 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 17:43:32 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/css/_bg.css, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/css/.css, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:53:31 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 17:55:30 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/css/.css, referer: http://localhost:8888/testing/index.php?tp=1&template=rhuk_milkyway
+[Tue Jan 22 17:55:30 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/css/_bg.css, referer: http://localhost:8888/testing/index.php?tp=1&template=rhuk_milkyway
+[Tue Jan 22 17:56:27 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 19:43:07 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 19:44:44 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 19:52:32 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 19:53:30 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 20:57:04 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/metroshows/s5_topimage.jpg
+[Tue Jan 22 20:57:21 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/metroshows/s5_topimage.jpg
+[Tue Jan 22 20:59:26 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/metroshows/s5_topimage.jpg
+[Tue Jan 22 20:59:44 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/metroshows/s5_topimage.jpg
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/css/.css, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/css/_bg.css, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:03:48 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing/templates/rhuk_milkyway/images, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:08:17 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 21:09:16 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 21:13:07 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/upstreamAgency/installation, referer: http://localhost:8888/upstreamAgency/installation/index.php
+[Tue Jan 22 21:15:32 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 21:16:04 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/upstreamAgency/template
+[Tue Jan 22 21:20:56 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/testing, referer: http://localhost:8888/testing/
+[Tue Jan 22 21:27:06 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/upstreamAgency/templates/system/images/notice-alert.png, referer: http://localhost:8888/upstreamAgency/
+[Tue Jan 22 22:11:48 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 22:38:28 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 22:40:26 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 22 22:51:59 2013] [notice] caught SIGTERM, shutting down
+[Wed Jan 23 19:45:45 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Jan 23 19:45:45 2013] [notice] Digest: done
+[Wed Jan 23 19:45:45 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Wed Jan 23 19:46:47 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 23 19:47:23 2013] [error] [client 127.0.0.1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Thu Jan 24 08:51:02 2013] [notice] caught SIGTERM, shutting down
+[Fri Jan 25 21:37:21 2013] [notice] Digest: generating secret for digest authentication ...
+[Fri Jan 25 21:37:21 2013] [notice] Digest: done
+[Fri Jan 25 21:37:21 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Fri Jan 25 21:37:27 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Fri Jan 25 22:50:29 2013] [notice] caught SIGTERM, shutting down
+[Mon Jan 28 18:42:46 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 28 18:42:46 2013] [notice] Digest: done
+[Mon Jan 28 18:42:46 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Mon Jan 28 18:47:45 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/yourdrupaldirectory
+[Mon Jan 28 18:47:50 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+[Mon Jan 28 22:12:11 2013] [notice] caught SIGTERM, shutting down
+[Mon Jan 28 22:55:15 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 28 22:55:15 2013] [notice] Digest: done
+[Mon Jan 28 22:55:15 2013] [error] [client 127.0.0.1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Jan 28 22:55:15 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Mon Jan 28 23:29:43 2013] [error] [client 127.0.0.1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Jan 28 23:45:34 2013] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/kirigami/templates/beez_20/css/.css, referer: http://localhost:8888/kirigami/
+[Mon Jan 28 23:49:26 2013] [notice] caught SIGTERM, shutting down
+[Tue Jan 29 09:03:43 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Jan 29 09:03:43 2013] [notice] Digest: done
+[Tue Jan 29 09:03:43 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Jan 29 09:35:12 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 29 09:38:26 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/things/installation, referer: http://localhost:8888/things/installation/index.php
+[Tue Jan 29 09:56:36 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 29 10:00:20 2013] [notice] caught SIGTERM, shutting down
+[Tue Jan 29 16:37:29 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Jan 29 16:37:29 2013] [notice] Digest: done
+[Tue Jan 29 16:37:29 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Jan 29 16:37:36 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 29 18:05:48 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 29 18:31:50 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 29 19:53:28 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 29 19:54:41 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jan 29 20:17:47 2013] [notice] caught SIGTERM, shutting down
+[Wed Jan 30 10:52:16 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Jan 30 10:52:16 2013] [notice] Digest: done
+[Wed Jan 30 10:52:16 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Wed Jan 30 18:23:54 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 30 19:01:36 2013] [notice] child pid 21851 exit signal Segmentation fault (11)
+[Wed Jan 30 19:02:13 2013] [notice] child pid 21775 exit signal Segmentation fault (11)
+[Wed Jan 30 19:02:15 2013] [notice] child pid 21349 exit signal Segmentation fault (11)
+[Wed Jan 30 19:02:18 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 30 19:02:23 2013] [notice] child pid 21632 exit signal Segmentation fault (11)
+[Wed Jan 30 19:02:24 2013] [notice] child pid 17229 exit signal Segmentation fault (11)
+[Wed Jan 30 19:03:15 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Jan 30 19:03:58 2013] [notice] caught SIGTERM, shutting down
+[Wed Jan 30 19:04:49 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Jan 30 19:04:49 2013] [notice] Digest: done
+[Wed Jan 30 19:04:49 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Wed Jan 30 19:09:34 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/drupal-7.19/sites/all/modules/admin_menu/admin_devel/admin_devel.js, referer: http://localhost:8888/drupal-7.19/admin/modules/
+[Wed Jan 30 19:09:34 2013] [error] [client ::1] script '/Applications/MAMP/htdocs/index.php' not found or unable to stat, referer: http://localhost:8888/drupal-7.19/admin/modules/
+[Wed Jan 30 19:10:15 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/drupal-7.19/sites/all/modules/admin_menu/admin_devel/admin_devel.js, referer: http://localhost:8888/drupal-7.19/admin/modules/list/confirm
+[Wed Jan 30 19:10:15 2013] [error] [client ::1] script '/Applications/MAMP/htdocs/index.php' not found or unable to stat, referer: http://localhost:8888/drupal-7.19/admin/modules/list/confirm
+[Wed Jan 30 19:10:41 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/drupal-7.19/sites/all/modules/admin_menu/admin_devel/admin_devel.js, referer: http://localhost:8888/drupal-7.19/admin/modules
+[Wed Jan 30 19:10:41 2013] [error] [client ::1] script '/Applications/MAMP/htdocs/index.php' not found or unable to stat, referer: http://localhost:8888/drupal-7.19/admin/modules
+[Wed Jan 30 19:11:10 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/drupal-7.19/sites/all/modules/admin_menu/admin_devel/admin_devel.js, referer: http://localhost:8888/drupal-7.19/admin/modules
+[Wed Jan 30 19:11:10 2013] [error] [client ::1] script '/Applications/MAMP/htdocs/index.php' not found or unable to stat, referer: http://localhost:8888/drupal-7.19/admin/modules
+[Wed Jan 30 19:31:07 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/drupal-7.19, referer: http://localhost:8888/drupal-7.19/
+[Wed Jan 30 19:31:08 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/drupal-7.19, referer: http://localhost:8888/drupal-7.19/
+[Wed Jan 30 22:40:52 2013] [notice] caught SIGTERM, shutting down
+[Thu Jan 31 09:16:59 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Jan 31 09:16:59 2013] [notice] Digest: done
+[Thu Jan 31 09:16:59 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Jan 31 09:17:14 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Thu Jan 31 10:56:38 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/admin
+[Thu Jan 31 14:07:33 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Feb 02 21:38:32 2013] [notice] Digest: generating secret for digest authentication ...
+[Sat Feb 02 21:38:32 2013] [notice] Digest: done
+[Sat Feb 02 21:38:32 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Sat Feb 02 21:38:43 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Sat Feb 02 22:44:43 2013] [notice] caught SIGTERM, shutting down
+[Sun Feb 03 14:23:43 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Feb 03 14:23:43 2013] [notice] Digest: done
+[Sun Feb 03 14:23:43 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Sun Feb 03 23:29:08 2013] [notice] caught SIGTERM, shutting down
+[Mon Feb 04 11:16:22 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Feb 04 11:16:22 2013] [notice] Digest: done
+[Mon Feb 04 11:16:22 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Mon Feb 04 17:15:29 2013] [error] [client fe80::1] File does not exist: /Applications/MAMP/htdocs/phpmyadmin
+[Mon Feb 04 17:33:11 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Feb 04 17:33:11 2013] [notice] Digest: done
+[Mon Feb 04 17:33:11 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Mon Feb 04 17:33:19 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Feb 04 17:33:43 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/kirigami/templates/beez_20/css/.css, referer: http://localhost:8888/kirigami/
+[Mon Feb 04 17:33:55 2013] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/kirigami/templates/beez_20/css/.css, referer: http://localhost:8888/kirigami/
+[Mon Feb 04 18:17:49 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Feb 04 19:14:26 2013] [notice] caught SIGTERM, shutting down
+[Tue Feb 05 08:48:04 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Feb 05 08:48:04 2013] [notice] Digest: done
+[Tue Feb 05 08:48:04 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Feb 05 08:48:17 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 09:00:35 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 09:29:58 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 10:36:33 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 10:44:14 2013] [notice] caught SIGTERM, shutting down
+[Tue Feb 05 14:04:21 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Feb 05 14:04:21 2013] [notice] Digest: done
+[Tue Feb 05 14:04:21 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Feb 05 14:05:06 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Tue Feb 05 16:31:25 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Tue Feb 05 17:05:05 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Feb 05 17:05:05 2013] [notice] Digest: done
+[Tue Feb 05 17:05:05 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Feb 05 17:14:18 2013] [notice] child pid 16040 exit signal Segmentation fault (11)
+[Tue Feb 05 17:18:01 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 18:16:02 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 18:23:45 2013] [notice] caught SIGTERM, shutting down
+[Tue Feb 05 18:24:01 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Feb 05 18:24:01 2013] [notice] Digest: done
+[Tue Feb 05 18:24:01 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Feb 05 18:24:07 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 18:29:07 2013] [notice] caught SIGTERM, shutting down
+[Tue Feb 05 18:29:15 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Feb 05 18:29:15 2013] [notice] Digest: done
+[Tue Feb 05 18:29:15 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Feb 05 18:29:21 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 18:31:27 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 18:31:28 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 18:31:28 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Feb 05 18:31:32 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+[Tue Feb 05 18:36:57 2013] [notice] caught SIGTERM, shutting down
+[Tue Feb 05 18:45:06 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Feb 05 18:45:06 2013] [notice] Digest: done
+[Tue Feb 05 18:45:06 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Tue Feb 05 18:45:14 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+sendmail: fatal: chdir /Library/Server/Mail/Data/spool: No such file or directory
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Tue Feb 05 19:00:03 2013] [notice] caught SIGTERM, shutting down
+[Wed Feb 06 08:31:47 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Feb 06 08:31:47 2013] [notice] Digest: done
+[Wed Feb 06 08:31:47 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Wed Feb 06 08:31:56 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Wed Feb 06 10:08:34 2013] [notice] caught SIGTERM, shutting down
+[Wed Feb 06 13:34:05 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Feb 06 13:34:05 2013] [notice] Digest: done
+[Wed Feb 06 13:34:05 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Wed Feb 06 13:34:45 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Feb 06 13:37:17 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Feb 06 14:15:44 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Wed Feb 06 14:55:13 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Wed Feb 06 17:00:01 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Wed Feb 06 17:50:17 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Wed Feb 06 20:29:18 2013] [notice] caught SIGTERM, shutting down
+[Thu Feb 07 16:50:02 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Feb 07 16:50:02 2013] [notice] Digest: done
+[Thu Feb 07 16:50:02 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Feb 07 16:50:10 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Thu Feb 07 17:29:27 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Feb 07 17:29:27 2013] [notice] Digest: done
+[Thu Feb 07 17:29:27 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Feb 07 17:29:37 2013] [notice] caught SIGTERM, shutting down
+[Thu Feb 07 17:29:48 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Feb 07 17:29:48 2013] [notice] Digest: done
+[Thu Feb 07 17:29:48 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Feb 07 17:30:26 2013] [notice] caught SIGTERM, shutting down
+[Thu Feb 07 17:30:34 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Feb 07 17:30:34 2013] [notice] Digest: done
+[Thu Feb 07 17:30:34 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Feb 07 17:30:48 2013] [notice] caught SIGTERM, shutting down
+[Thu Feb 07 17:30:50 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Feb 07 17:30:50 2013] [notice] Digest: done
+[Thu Feb 07 17:30:50 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Feb 07 17:31:41 2013] [notice] caught SIGTERM, shutting down
+[Thu Feb 07 17:32:06 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Feb 07 17:32:06 2013] [notice] Digest: done
+[Thu Feb 07 17:32:06 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Feb 07 17:32:19 2013] [notice] caught SIGTERM, shutting down
+[Thu Feb 07 17:47:56 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Feb 07 17:47:56 2013] [notice] Digest: done
+[Thu Feb 07 17:47:56 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Thu Feb 07 17:48:06 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Thu Feb 07 17:48:24 2013] [notice] caught SIGTERM, shutting down
