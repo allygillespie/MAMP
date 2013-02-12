@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+=======
+130212 15:06:31 mysqld_safe Starting mysqld daemon with databases from /Applications/MAMP/db/mysql
+130212 15:06:33 [Warning] You have forced lower_case_table_names to 0 through a command-line option, even though your file system '/Applications/MAMP/db/mysql/' is case insensitive.  This means that you can corrupt a MyISAM table by accessing it with different cases. You should consider changing lower_case_table_names to 1 or 2
+130212 15:06:33 [Note] Plugin 'FEDERATED' is disabled.
+130212 15:06:33 InnoDB: The InnoDB memory heap is disabled
+130212 15:06:33 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+130212 15:06:33 InnoDB: Compressed tables use zlib 1.2.3
+130212 15:06:33 InnoDB: Initializing buffer pool, size = 128.0M
+130212 15:06:34 InnoDB: Completed initialization of buffer pool
+130212 15:06:34 InnoDB: highest supported file format is Barracuda.
+130212 15:06:41  InnoDB: Waiting for the background threads to start
+130212 15:06:42 InnoDB: 1.1.5 started; log sequence number 1181364459
+130212 15:06:42 [Note] Event Scheduler: Loaded 0 events
+130212 15:06:42 [Note] /Applications/MAMP/Library/bin/mysqld: ready for connections.
+Version: '5.5.9'  socket: '/Applications/MAMP/tmp/mysql/mysql.sock'  port: 8889  Source distribution
+>>>>>>> formatted venues and added changed users.
