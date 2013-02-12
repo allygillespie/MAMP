@@ -444,3 +444,8 @@ libpng warning: Interlace handling should be turned on when using png_read_image
 [Mon Feb 11 17:50:24 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
 [Mon Feb 11 17:52:59 2013] [notice] caught SIGTERM, shutting down
 >>>>>>> josh commit
+[Mon Feb 11 17:55:54 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Feb 11 17:55:54 2013] [notice] Digest: done
+[Mon Feb 11 17:55:54 2013] [notice] Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8r DAV/2 PHP/5.3.6 configured -- resuming normal operations
+[Mon Feb 11 17:56:00 2013] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Mon Feb 11 17:57:23 2013] [notice] caught SIGTERM, shutting down
